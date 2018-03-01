@@ -1,2 +1,3 @@
 # yHatFormula
 some sloppy code I wrote to help me with my homework and keep me from doing it by hand. could be useful...
+please help me clean it up and make it better!
